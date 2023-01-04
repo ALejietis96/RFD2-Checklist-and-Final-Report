@@ -20,6 +20,10 @@
   
 - <b>Files about</b>
 
+  - <c>If in the file there are highlights with yellow, those are topics, that I contributed to </c>
+
   - <c>Testing checklist - all checklists of Use cases that were used during the sprint </c>
   
-  - <c>Finnal report - Report of all squad members. All checklist items and their corresponding found Bugs </c>
+    
+  
+  - <c>Final report - Report of all squad members. All checklist items and their corresponding found Bugs </c>
