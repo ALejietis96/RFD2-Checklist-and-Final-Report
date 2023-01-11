@@ -1,8 +1,8 @@
 # Practicing testing checklists and final report
 
-- <b>Project about:</b>
+<b>My very first project that I participated during my time in Cerebrum Hub.</b>
 
-  - My very first project that I participated during my time in Cerebrum Hub.
+- <b>Project about:</b>
   
   - In response to the re-opening of restaurants, pubs, bars, cafes and hotels, it is important to make it easy for businesses to take food and drink orders and meet Government requirements. 
 
