@@ -1,5 +1,4 @@
-# RFD2-Checklist-and-Final-Report
-<h2>Practicing testing checklists and final report</h2>
+# Practicing testing checklists and final report
 
 <b>My very first project that I participated during my time in Cerebrum Hub.</b>
 
