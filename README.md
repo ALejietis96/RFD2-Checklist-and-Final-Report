@@ -2,11 +2,11 @@
 
 <b>My very first project that I participated during my time in Cerebrum Hub.</b>
 
-- <b>Project about:</b>
+<b>Project about:</b>
   
   - In response to the re-opening of restaurants, pubs, bars, cafes and hotels, it is important to make it easy for businesses to take food and drink orders and meet Government requirements. 
 
-- <b>Sprint about:</b>
+<b>Sprint about:</b>
 
   - To go trough provided Use cases and develop testing checklists for when first versions of application will be developed.
 
@@ -16,10 +16,10 @@
   
   - Explore the application report found bugs.
   
-- <b>Files about:</b>
+<b>Files about:</b>
 
-  - If in the file there are highlights with yellow, those are topics, that I contributed to.
+  <i>If in the file there are highlights with yellow, those are topics, that I contributed to.</i>
 
-  - Testing checklist - all checklists of Use cases that were used during the sprint.
+  - <i>Testing checklists.pdf</i> - all checklists of Use cases that were used during the sprint.
   
-  - Final report - Report of all squad members. All checklist items and their corresponding found Bugs.
+  - <i>Final report.pdf</i> - Report of all squad members. All checklist items and their corresponding found Bugs.
