@@ -20,6 +20,6 @@
 
   <i>If in the file there are highlights with yellow, those are topics, that I contributed to.</i>
 
-  - <i>Testing checklists.pdf</i> - all checklists of Use cases that were used during the sprint.
+  - <i>[Testing checklists.pdf</i>](https://github.com/ALejietis96/RFD2-Checklist-and-Final-Report/blob/main/Testing%20checklists.pdf) - all checklists of Use cases that were used during the sprint.
   
-  - <i>Final report.pdf</i> - Report of all squad members. All checklist items and their corresponding found Bugs.
+  - <i>[Final report.pdf</i>](https://github.com/ALejietis96/RFD2-Checklist-and-Final-Report/blob/main/Final%20report.pdf) - Report of all squad members. All checklist items and their corresponding found Bugs.
